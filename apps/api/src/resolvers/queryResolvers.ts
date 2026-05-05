@@ -1,5 +1,6 @@
 import { getAllCustomers } from '../data/customerRepository';
 import { applyFilters } from '../services/filterService';
+import { getHistory } from '../history/historyStore';
 import { FilterInput } from '../types';
 
 const MAX_RESULTS = 50;
@@ -10,6 +11,5 @@ export const queryResolvers = {
     return matched.slice(0, MAX_RESULTS);
   },
 
-  // placeholder — will be replaced in feat/api-history branch
-  getTagHistory: () => [],
+  getTagHistory: () => getHistory(),
 };
