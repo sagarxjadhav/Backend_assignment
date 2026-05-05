@@ -14,7 +14,9 @@ async function startServer() {
   const server = new ApolloServer({ typeDefs, resolvers });
 
   await server.start();
-  server.applyMiddleware({ app });
+  // Type cast required: apollo-server-express v3 bundles its own @types/express
+  // which conflicts with the root @types/express at the structural level
+  server.applyMiddleware({ app: app as never });
 
   const port = process.env.PORT ?? 4000;
   app.listen(port, () => {
