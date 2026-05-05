@@ -1,0 +1,893 @@
+[
+  {
+    "id": "8c7e6f1a-de93-4dbb-84dd-4ae3c1ba7d5a",
+    "firstName": "Charlotte",
+    "lastName": "Kling",
+    "email": "tevin.hagenes@gmail.com",
+    "numberOfOrders": 0,
+    "amountSpent": {
+      "amount": 0,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": null,
+    "tags": [
+      "loyal",
+      "new",
+      "wholesale"
+    ],
+    "createdAt": "2024-03-31T21:42:19.319Z"
+  },
+  {
+    "id": "1dbfce30-d647-4468-9020-bdb74b7a9c44",
+    "firstName": "Romaine",
+    "lastName": "Robel",
+    "email": "chet.witting96@hotmail.com",
+    "numberOfOrders": 6,
+    "amountSpent": {
+      "amount": 1120,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": "2025-11-13T02:29:30.148Z",
+    "tags": [
+      "wholesale",
+      "new",
+      "vip"
+    ],
+    "createdAt": "2025-05-05T23:31:35.263Z"
+  },
+  {
+    "id": "d684ee62-ff6d-4667-958f-1d3f2d5d57ab",
+    "firstName": "Eleanora",
+    "lastName": "Pacocha",
+    "email": "danny.orn59@hotmail.com",
+    "numberOfOrders": 34,
+    "amountSpent": {
+      "amount": 2137,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": "2026-04-08T18:45:39.497Z",
+    "tags": [
+      "new",
+      "returning"
+    ],
+    "createdAt": "2025-11-01T04:48:18.639Z"
+  },
+  {
+    "id": "3fb91c28-713b-4732-b287-ea6cce84e60d",
+    "firstName": "Neil",
+    "lastName": "Fadel",
+    "email": "kaitlyn52@hotmail.com",
+    "numberOfOrders": 34,
+    "amountSpent": {
+      "amount": 2897,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": "2025-12-21T10:10:27.682Z",
+    "tags": [
+      "returning",
+      "wholesale"
+    ],
+    "createdAt": "2025-10-24T22:27:43.359Z"
+  },
+  {
+    "id": "20fe3ef4-dc92-46c5-b483-e6715cf0d3df",
+    "firstName": "Lowell",
+    "lastName": "Schiller",
+    "email": "jalyn88@gmail.com",
+    "numberOfOrders": 21,
+    "amountSpent": {
+      "amount": 3628,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": "2026-02-04T17:15:30.493Z",
+    "tags": [],
+    "createdAt": "2024-05-04T13:44:54.257Z"
+  },
+  {
+    "id": "905af8d7-6a05-4f7d-b386-71484cc72fdb",
+    "firstName": "Ceasar",
+    "lastName": "Deckow",
+    "email": "destiny35@gmail.com",
+    "numberOfOrders": 18,
+    "amountSpent": {
+      "amount": 4057,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": "2026-03-10T15:06:12.313Z",
+    "tags": [
+      "wholesale"
+    ],
+    "createdAt": "2024-05-26T00:34:47.770Z"
+  },
+  {
+    "id": "9dc792f0-3099-4d94-8dcd-96e45a9e8c17",
+    "firstName": "Arvilla",
+    "lastName": "Dickens",
+    "email": "sarina49@yahoo.com",
+    "numberOfOrders": 12,
+    "amountSpent": {
+      "amount": 2465,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": "2026-04-24T19:11:59.609Z",
+    "tags": [
+      "returning",
+      "wholesale",
+      "at-risk"
+    ],
+    "createdAt": "2024-12-23T03:37:28.825Z"
+  },
+  {
+    "id": "9b12abe8-355d-44de-8994-90ff31571249",
+    "firstName": "Jamar",
+    "lastName": "Schneider",
+    "email": "easton.hilpert@yahoo.com",
+    "numberOfOrders": 12,
+    "amountSpent": {
+      "amount": 3325,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": "2026-02-20T10:00:32.182Z",
+    "tags": [],
+    "createdAt": "2023-05-18T21:52:38.190Z"
+  },
+  {
+    "id": "a02325de-9447-454f-a353-34737359b7f7",
+    "firstName": "Brenna",
+    "lastName": "Casper",
+    "email": "mariane_streich@hotmail.com",
+    "numberOfOrders": 0,
+    "amountSpent": {
+      "amount": 0,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": null,
+    "tags": [
+      "vip"
+    ],
+    "createdAt": "2023-11-27T00:37:37.391Z"
+  },
+  {
+    "id": "31ffc11b-4a28-4adf-b125-ff8952cd6cca",
+    "firstName": "Kacie",
+    "lastName": "Wiza",
+    "email": "al85@hotmail.com",
+    "numberOfOrders": 4,
+    "amountSpent": {
+      "amount": 4260,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": "2026-01-03T18:42:24.181Z",
+    "tags": [
+      "loyal"
+    ],
+    "createdAt": "2025-12-08T20:27:39.657Z"
+  },
+  {
+    "id": "c98c9aaa-778d-4d7b-962b-97eb91e6e6fb",
+    "firstName": "Bernie",
+    "lastName": "Harris-Dietrich",
+    "email": "lamont.flatley95@yahoo.com",
+    "numberOfOrders": 22,
+    "amountSpent": {
+      "amount": 1894,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": "2026-01-06T00:58:49.557Z",
+    "tags": [
+      "returning"
+    ],
+    "createdAt": "2026-02-15T21:42:00.966Z"
+  },
+  {
+    "id": "9dd01dd5-242e-4315-9539-d43d26eee623",
+    "firstName": "Josue",
+    "lastName": "Prohaska",
+    "email": "billy.hartmann-johns25@gmail.com",
+    "numberOfOrders": 21,
+    "amountSpent": {
+      "amount": 3859,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": "2025-11-26T01:59:03.956Z",
+    "tags": [
+      "wholesale",
+      "loyal"
+    ],
+    "createdAt": "2024-08-05T14:41:12.589Z"
+  },
+  {
+    "id": "56eea87c-7431-4da6-949c-3730850064cd",
+    "firstName": "Mina",
+    "lastName": "Lesch",
+    "email": "lelia62@yahoo.com",
+    "numberOfOrders": 36,
+    "amountSpent": {
+      "amount": 3478,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": "2026-03-25T06:37:19.715Z",
+    "tags": [
+      "returning",
+      "at-risk"
+    ],
+    "createdAt": "2026-01-30T02:03:01.766Z"
+  },
+  {
+    "id": "21ce628f-7157-4272-a3b3-eab3b3443604",
+    "firstName": "Deonte",
+    "lastName": "Klocko",
+    "email": "thalia.schinner@yahoo.com",
+    "numberOfOrders": 5,
+    "amountSpent": {
+      "amount": 4491,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": "2025-12-25T06:41:40.186Z",
+    "tags": [
+      "loyal",
+      "new"
+    ],
+    "createdAt": "2026-01-02T16:37:36.936Z"
+  },
+  {
+    "id": "eb35972b-3d67-45d2-8d21-514734d3070f",
+    "firstName": "Javon",
+    "lastName": "Lynch",
+    "email": "cameron_bahringer33@yahoo.com",
+    "numberOfOrders": 32,
+    "amountSpent": {
+      "amount": 2916,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": "2025-11-23T15:02:37.373Z",
+    "tags": [],
+    "createdAt": "2025-08-20T15:14:05.770Z"
+  },
+  {
+    "id": "2460ee0a-4ae6-4e08-9b0a-8854a4743200",
+    "firstName": "Vicente",
+    "lastName": "Goodwin",
+    "email": "rhianna_dare-mosciski@gmail.com",
+    "numberOfOrders": 37,
+    "amountSpent": {
+      "amount": 4371,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": "2026-02-02T11:59:35.982Z",
+    "tags": [
+      "new"
+    ],
+    "createdAt": "2026-02-04T09:04:11.743Z"
+  },
+  {
+    "id": "2cf16109-5380-48aa-b67a-772d59e74902",
+    "firstName": "Natalie",
+    "lastName": "Langosh",
+    "email": "isobel.pollich44@gmail.com",
+    "numberOfOrders": 0,
+    "amountSpent": {
+      "amount": 0,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": null,
+    "tags": [
+      "at-risk",
+      "wholesale"
+    ],
+    "createdAt": "2024-08-05T15:39:23.067Z"
+  },
+  {
+    "id": "1e72c39d-2009-4552-b75e-e949d97fd220",
+    "firstName": "Rosalee",
+    "lastName": "Koepp",
+    "email": "willy56@yahoo.com",
+    "numberOfOrders": 14,
+    "amountSpent": {
+      "amount": 2906,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": "2026-04-01T08:01:08.870Z",
+    "tags": [],
+    "createdAt": "2026-02-28T17:39:44.225Z"
+  },
+  {
+    "id": "4d69e64a-8db0-48af-b8c6-1978fd5995c5",
+    "firstName": "Markus",
+    "lastName": "Veum",
+    "email": "shanel86@gmail.com",
+    "numberOfOrders": 16,
+    "amountSpent": {
+      "amount": 4489,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": "2026-03-11T19:49:07.855Z",
+    "tags": [
+      "new"
+    ],
+    "createdAt": "2025-03-19T03:56:19.661Z"
+  },
+  {
+    "id": "c4c524b8-0e1e-4483-a147-ab64e2335179",
+    "firstName": "Noemi",
+    "lastName": "Smitham",
+    "email": "craig29@hotmail.com",
+    "numberOfOrders": 18,
+    "amountSpent": {
+      "amount": 1422,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": "2026-03-18T01:30:07.577Z",
+    "tags": [
+      "returning",
+      "vip",
+      "wholesale"
+    ],
+    "createdAt": "2025-08-03T08:31:35.244Z"
+  },
+  {
+    "id": "6cf5f871-8805-465d-971c-61e27308f73e",
+    "firstName": "Alice",
+    "lastName": "Fay",
+    "email": "lorenz_maggio@hotmail.com",
+    "numberOfOrders": 6,
+    "amountSpent": {
+      "amount": 3493,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": "2026-03-25T10:44:49.211Z",
+    "tags": [
+      "loyal",
+      "at-risk",
+      "wholesale"
+    ],
+    "createdAt": "2025-05-08T03:02:57.763Z"
+  },
+  {
+    "id": "9591e673-1f30-47f0-9734-7a29ae5edeff",
+    "firstName": "Eunice",
+    "lastName": "Bins",
+    "email": "maverick15@hotmail.com",
+    "numberOfOrders": 28,
+    "amountSpent": {
+      "amount": 689,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": "2025-11-25T19:42:58.041Z",
+    "tags": [
+      "loyal",
+      "at-risk",
+      "vip"
+    ],
+    "createdAt": "2025-05-23T05:20:08.104Z"
+  },
+  {
+    "id": "9a4eed15-0d8e-43f9-861a-690da27b6825",
+    "firstName": "Fredrick",
+    "lastName": "Rutherford",
+    "email": "camille26@hotmail.com",
+    "numberOfOrders": 31,
+    "amountSpent": {
+      "amount": 679,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": "2026-03-06T10:47:45.944Z",
+    "tags": [
+      "loyal",
+      "at-risk",
+      "vip"
+    ],
+    "createdAt": "2023-07-05T02:54:50.324Z"
+  },
+  {
+    "id": "cfb1f744-db45-46e9-85b3-42c6ae78c65c",
+    "firstName": "Charlie",
+    "lastName": "Jacobi",
+    "email": "alyce.king32@hotmail.com",
+    "numberOfOrders": 10,
+    "amountSpent": {
+      "amount": 3838,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": "2025-12-10T13:05:47.119Z",
+    "tags": [
+      "returning",
+      "vip"
+    ],
+    "createdAt": "2024-10-12T16:07:12.079Z"
+  },
+  {
+    "id": "e0e96af9-4e61-4f1c-9824-f4adbb1b563c",
+    "firstName": "Jaeden",
+    "lastName": "Hahn",
+    "email": "brooke_schowalter-schowalter@gmail.com",
+    "numberOfOrders": 0,
+    "amountSpent": {
+      "amount": 0,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": null,
+    "tags": [
+      "at-risk",
+      "new"
+    ],
+    "createdAt": "2025-12-15T09:02:38.233Z"
+  },
+  {
+    "id": "7602749e-30ce-422c-8583-c2dc9cace342",
+    "firstName": "Modesto",
+    "lastName": "Bauch",
+    "email": "kelsi.daugherty98@gmail.com",
+    "numberOfOrders": 14,
+    "amountSpent": {
+      "amount": 1479,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": "2025-12-24T01:39:14.878Z",
+    "tags": [
+      "vip"
+    ],
+    "createdAt": "2024-10-12T10:55:19.972Z"
+  },
+  {
+    "id": "25c4c27c-01a8-4d0c-bcca-d40eb5a9bca2",
+    "firstName": "Oral",
+    "lastName": "Crooks",
+    "email": "lila.crona@yahoo.com",
+    "numberOfOrders": 37,
+    "amountSpent": {
+      "amount": 1631,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": "2025-11-07T16:50:11.750Z",
+    "tags": [
+      "new"
+    ],
+    "createdAt": "2023-07-24T17:12:11.574Z"
+  },
+  {
+    "id": "7553cf33-3818-4b6c-92f1-25e9205a717b",
+    "firstName": "Irwin",
+    "lastName": "Altenwerth",
+    "email": "letitia64@gmail.com",
+    "numberOfOrders": 5,
+    "amountSpent": {
+      "amount": 2058,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": "2025-12-01T11:37:22.720Z",
+    "tags": [
+      "returning",
+      "at-risk"
+    ],
+    "createdAt": "2024-04-11T14:57:39.980Z"
+  },
+  {
+    "id": "2ab7cece-5f9a-45f0-95c4-3ca7e89446da",
+    "firstName": "Destinee",
+    "lastName": "Schmidt",
+    "email": "hosea.brown76@gmail.com",
+    "numberOfOrders": 28,
+    "amountSpent": {
+      "amount": 4452,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": "2026-01-08T01:05:24.104Z",
+    "tags": [
+      "at-risk",
+      "new"
+    ],
+    "createdAt": "2025-09-10T16:48:18.049Z"
+  },
+  {
+    "id": "cf6af433-e19c-4c5d-8fdc-3f0cb3895792",
+    "firstName": "Derick",
+    "lastName": "Willms",
+    "email": "lester_schowalter76@gmail.com",
+    "numberOfOrders": 5,
+    "amountSpent": {
+      "amount": 4945,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": "2026-01-21T20:17:22.575Z",
+    "tags": [
+      "wholesale",
+      "at-risk",
+      "new"
+    ],
+    "createdAt": "2023-11-05T21:04:11.396Z"
+  },
+  {
+    "id": "08e59feb-2ccf-4cf6-be7d-8ec38de8d622",
+    "firstName": "Tina",
+    "lastName": "Funk",
+    "email": "alaina78@gmail.com",
+    "numberOfOrders": 24,
+    "amountSpent": {
+      "amount": 3594,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": "2025-12-21T05:12:22.734Z",
+    "tags": [],
+    "createdAt": "2025-08-12T18:27:12.020Z"
+  },
+  {
+    "id": "f4179d1a-cf00-4944-bc88-d97f4844e2c7",
+    "firstName": "Marie",
+    "lastName": "Blanda",
+    "email": "ryley87@hotmail.com",
+    "numberOfOrders": 13,
+    "amountSpent": {
+      "amount": 395,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": "2026-01-30T06:41:14.915Z",
+    "tags": [],
+    "createdAt": "2025-07-07T17:41:08.933Z"
+  },
+  {
+    "id": "a62533ae-05cc-4e2b-86d2-232d3ce7d3d4",
+    "firstName": "Vivianne",
+    "lastName": "Morar",
+    "email": "jason57@hotmail.com",
+    "numberOfOrders": 0,
+    "amountSpent": {
+      "amount": 0,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": null,
+    "tags": [],
+    "createdAt": "2025-09-06T04:31:52.900Z"
+  },
+  {
+    "id": "976a8ef2-2706-47c3-9120-dbc053bd1c9c",
+    "firstName": "Soledad",
+    "lastName": "Lind",
+    "email": "erich_hudson@hotmail.com",
+    "numberOfOrders": 23,
+    "amountSpent": {
+      "amount": 2982,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": "2025-11-09T23:05:48.543Z",
+    "tags": [
+      "returning",
+      "at-risk",
+      "new"
+    ],
+    "createdAt": "2024-04-30T16:48:33.155Z"
+  },
+  {
+    "id": "da5640b4-0deb-4b2e-ab8a-29dbcd5ee062",
+    "firstName": "Nathan",
+    "lastName": "Donnelly",
+    "email": "toy_adams@yahoo.com",
+    "numberOfOrders": 15,
+    "amountSpent": {
+      "amount": 1721,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": "2025-12-26T14:24:03.127Z",
+    "tags": [
+      "at-risk",
+      "new"
+    ],
+    "createdAt": "2025-01-25T11:35:59.966Z"
+  },
+  {
+    "id": "d1ff443f-9946-43cd-9b37-c788071907f4",
+    "firstName": "Marge",
+    "lastName": "Lind",
+    "email": "luna28@hotmail.com",
+    "numberOfOrders": 13,
+    "amountSpent": {
+      "amount": 2254,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": "2026-04-29T11:41:08.636Z",
+    "tags": [],
+    "createdAt": "2025-12-19T02:20:25.203Z"
+  },
+  {
+    "id": "ef606da5-7053-4273-8e0d-dfaffabc732c",
+    "firstName": "Leonie",
+    "lastName": "Harber-Dickinson",
+    "email": "wilhelmine.mayer@hotmail.com",
+    "numberOfOrders": 13,
+    "amountSpent": {
+      "amount": 808,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": "2025-11-17T15:57:27.934Z",
+    "tags": [
+      "at-risk",
+      "wholesale"
+    ],
+    "createdAt": "2024-07-25T19:35:44.853Z"
+  },
+  {
+    "id": "7f000380-4276-4226-984b-1f14923a0ce7",
+    "firstName": "Felipa",
+    "lastName": "Pfeffer",
+    "email": "edmond.klocko@yahoo.com",
+    "numberOfOrders": 25,
+    "amountSpent": {
+      "amount": 1737,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": "2025-12-13T11:25:27.557Z",
+    "tags": [
+      "vip"
+    ],
+    "createdAt": "2024-11-22T16:59:36.267Z"
+  },
+  {
+    "id": "5274af64-1a2d-456c-9eb3-1f58a166df92",
+    "firstName": "Tyrique",
+    "lastName": "Larkin",
+    "email": "brandon.pacocha@yahoo.com",
+    "numberOfOrders": 19,
+    "amountSpent": {
+      "amount": 1739,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": "2026-01-01T14:07:01.809Z",
+    "tags": [
+      "loyal"
+    ],
+    "createdAt": "2023-08-15T07:29:21.367Z"
+  },
+  {
+    "id": "14319ffd-4ec1-4891-be1c-01927e1fb068",
+    "firstName": "Otilia",
+    "lastName": "Bernier",
+    "email": "blaze72@yahoo.com",
+    "numberOfOrders": 2,
+    "amountSpent": {
+      "amount": 31,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": "2026-04-13T05:59:34.350Z",
+    "tags": [
+      "loyal"
+    ],
+    "createdAt": "2023-08-03T12:58:58.670Z"
+  },
+  {
+    "id": "416e08ac-1c2b-4720-822b-f17b159becbb",
+    "firstName": "Kaylee",
+    "lastName": "Haag",
+    "email": "luis.pollich@yahoo.com",
+    "numberOfOrders": 0,
+    "amountSpent": {
+      "amount": 0,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": null,
+    "tags": [
+      "loyal",
+      "vip"
+    ],
+    "createdAt": "2023-11-24T04:34:01.075Z"
+  },
+  {
+    "id": "e1913113-6389-4864-b286-e044004d884e",
+    "firstName": "Jairo",
+    "lastName": "Schmitt",
+    "email": "marianne35@gmail.com",
+    "numberOfOrders": 3,
+    "amountSpent": {
+      "amount": 3692,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": "2026-01-23T02:50:12.254Z",
+    "tags": [
+      "loyal",
+      "new"
+    ],
+    "createdAt": "2023-06-15T09:32:50.272Z"
+  },
+  {
+    "id": "8e4acf80-d307-42dd-a9c3-2d2ed869c92f",
+    "firstName": "Janis",
+    "lastName": "Lowe",
+    "email": "maeve24@hotmail.com",
+    "numberOfOrders": 14,
+    "amountSpent": {
+      "amount": 1365,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": "2025-12-05T21:27:16.151Z",
+    "tags": [],
+    "createdAt": "2023-08-26T07:29:03.422Z"
+  },
+  {
+    "id": "4babd44c-5d97-4da1-99de-6e407c028c27",
+    "firstName": "Hilbert",
+    "lastName": "Schmidt",
+    "email": "martin_keeling@gmail.com",
+    "numberOfOrders": 14,
+    "amountSpent": {
+      "amount": 3573,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": "2026-03-31T21:39:53.053Z",
+    "tags": [],
+    "createdAt": "2024-07-31T18:55:02.591Z"
+  },
+  {
+    "id": "1d668732-f371-4a0d-ae48-e05cf065ccd9",
+    "firstName": "Christop",
+    "lastName": "Zboncak",
+    "email": "fernando.hodkiewicz@hotmail.com",
+    "numberOfOrders": 22,
+    "amountSpent": {
+      "amount": 4784,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": "2026-04-21T01:49:20.910Z",
+    "tags": [
+      "new",
+      "at-risk",
+      "returning"
+    ],
+    "createdAt": "2024-01-31T21:50:32.705Z"
+  },
+  {
+    "id": "74eda853-3f3c-4e8d-8dc2-463c85eb3e2a",
+    "firstName": "Forrest",
+    "lastName": "Barton",
+    "email": "dominique70@yahoo.com",
+    "numberOfOrders": 14,
+    "amountSpent": {
+      "amount": 2402,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": "2026-01-19T03:41:58.907Z",
+    "tags": [
+      "at-risk"
+    ],
+    "createdAt": "2024-02-12T01:46:08.885Z"
+  },
+  {
+    "id": "3c29d1cd-b67d-4c5c-9dbd-206dab8ce965",
+    "firstName": "Terrance",
+    "lastName": "Harris",
+    "email": "grant_connelly57@yahoo.com",
+    "numberOfOrders": 18,
+    "amountSpent": {
+      "amount": 4729,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": "2026-02-18T14:13:30.355Z",
+    "tags": [
+      "wholesale",
+      "vip"
+    ],
+    "createdAt": "2023-09-18T18:04:09.812Z"
+  },
+  {
+    "id": "62941362-6db0-40df-9cec-e5eb39908a30",
+    "firstName": "Dejuan",
+    "lastName": "Kertzmann-Gorczany",
+    "email": "keagan_cummerata29@hotmail.com",
+    "numberOfOrders": 21,
+    "amountSpent": {
+      "amount": 3293,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": "2026-04-22T11:14:05.136Z",
+    "tags": [
+      "at-risk",
+      "new"
+    ],
+    "createdAt": "2026-02-27T15:13:50.565Z"
+  },
+  {
+    "id": "30118b2e-0295-49cd-b32f-57b20ed28f54",
+    "firstName": "Marcella",
+    "lastName": "McKenzie",
+    "email": "price_frami@gmail.com",
+    "numberOfOrders": 0,
+    "amountSpent": {
+      "amount": 0,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": null,
+    "tags": [],
+    "createdAt": "2025-03-31T18:00:11.006Z"
+  },
+  {
+    "id": "b29f183e-2f63-4fe4-8918-e087770ca5d4",
+    "firstName": "Kiarra",
+    "lastName": "Bode",
+    "email": "louvenia.legros@hotmail.com",
+    "numberOfOrders": 17,
+    "amountSpent": {
+      "amount": 3168,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": "2025-11-25T18:18:47.156Z",
+    "tags": [],
+    "createdAt": "2024-08-28T16:46:06.992Z"
+  },
+  {
+    "id": "9e16948a-ce0d-4511-9229-08286fa40734",
+    "firstName": "Rozella",
+    "lastName": "Price",
+    "email": "hanna_lind@hotmail.com",
+    "numberOfOrders": 35,
+    "amountSpent": {
+      "amount": 4424,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": "2026-01-22T09:54:42.928Z",
+    "tags": [
+      "at-risk"
+    ],
+    "createdAt": "2024-06-01T21:46:53.581Z"
+  },
+  {
+    "id": "eccb2f11-ee43-44b9-ba95-2001035e2285",
+    "firstName": "Jazmyn",
+    "lastName": "Lebsack",
+    "email": "baby24@hotmail.com",
+    "numberOfOrders": 17,
+    "amountSpent": {
+      "amount": 92,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": "2026-03-25T02:42:09.910Z",
+    "tags": [
+      "new",
+      "loyal",
+      "vip"
+    ],
+    "createdAt": "2025-07-26T17:35:37.431Z"
+  },
+  {
+    "id": "fd26aec1-84be-485c-87ff-e68e74d0bf81",
+    "firstName": "Cristal",
+    "lastName": "Buckridge",
+    "email": "allison.hills@hotmail.com",
+    "numberOfOrders": 10,
+    "amountSpent": {
+      "amount": 876,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": "2026-02-08T18:59:14.437Z",
+    "tags": [],
+    "createdAt": "2025-09-26T19:41:04.596Z"
+  },
+  {
+    "id": "d157e3bf-afc3-44fb-9cdb-89b931f2ff71",
+    "firstName": "Hildegard",
+    "lastName": "Carroll",
+    "email": "price79@hotmail.com",
+    "numberOfOrders": 13,
+    "amountSpent": {
+      "amount": 1714,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": "2026-03-09T14:34:35.505Z",
+    "tags": [],
+    "createdAt": "2023-08-08T11:52:09.067Z"
+  },
+  {
+    "id": "693a228d-4f24-4a5b-bf2f-9217f09a36c5",
+    "firstName": "Selina",
+    "lastName": "Spinka",
+    "email": "hipolito.waelchi-ortiz67@hotmail.com",
+    "numberOfOrders": 17,
+    "amountSpent": {
+      "amount": 3919,
+      "currencyCode": "USD"
+    },
+    "lastOrderDate": "2026-01-24T18:11:07.682Z",
+    "tags": [
+      "returning",
+      "loyal"
+    ],
+    "createdAt": "2024-12-27T03:40:46.011Z"
+  }
+]
