@@ -2,6 +2,7 @@ import { UserInputError } from 'apollo-server-express';
 import { getAllCustomers, updateCustomerTags } from '../data/customerRepository';
 import { applyFilters } from '../services/filterService';
 import { getAffectedCustomers } from '../services/tagService';
+import { addHistoryEntry } from '../history/historyStore';
 import { TagAction, TagOperationInput } from '../types';
 
 export const mutationResolvers = {
@@ -24,6 +25,13 @@ export const mutationResolvers = {
             : customer.tags.filter((t) => t !== tag);
 
         updateCustomerTags(customer.id, updatedTags);
+      });
+
+      addHistoryEntry({
+        criteria: JSON.stringify(criteria),
+        tag,
+        action,
+        customerCount: affected.length,
       });
     }
 
