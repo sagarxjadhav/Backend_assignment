@@ -23,6 +23,18 @@ const typeDefs = gql`
     minNumberOfOrders: Int
     lastOrderWithinDays: Int
   }
+
+  enum TagAction {
+    ADD
+    REMOVE
+  }
+
+  input TagOperationInput {
+    criteria: FilterInput!
+    tag: String!
+    action: TagAction!
+    dryRun: Boolean
+  }
 `;
 
 export default typeDefs;
