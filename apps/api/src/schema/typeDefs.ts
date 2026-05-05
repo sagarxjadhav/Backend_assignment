@@ -17,6 +17,12 @@ const typeDefs = gql`
     tags: [String!]!
     createdAt: String!
   }
+
+  input FilterInput {
+    minAmountSpent: Float
+    minNumberOfOrders: Int
+    lastOrderWithinDays: Int
+  }
 `;
 
 export default typeDefs;
