@@ -1,18 +1,8 @@
 import 'dotenv/config';
 import express from 'express';
-import { ApolloServer, gql } from 'apollo-server-express';
-
-const placeholderTypeDefs = gql`
-  type Query {
-    _placeholder: String
-  }
-`;
-
-const placeholderResolvers = {
-  Query: {
-    _placeholder: () => 'API is running',
-  },
-};
+import { ApolloServer } from 'apollo-server-express';
+import typeDefs from './schema/typeDefs';
+import { resolvers } from './resolvers';
 
 async function startServer() {
   const app = express();
@@ -21,10 +11,7 @@ async function startServer() {
     res.json({ status: 'ok' });
   });
 
-  const server = new ApolloServer({
-    typeDefs: placeholderTypeDefs,
-    resolvers: placeholderResolvers,
-  });
+  const server = new ApolloServer({ typeDefs, resolvers });
 
   await server.start();
   server.applyMiddleware({ app });
